@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import OptionForm from './optionform';
 import OptionPriceChart from './optionpricechart';
 import { calculateOptionPrices } from './utilities';
-
+// updated app.js file
 function App() {
   const [optionData, setOptionData] = useState({
     S: 100,   // Current asset price
