@@ -6,6 +6,8 @@ const reportWebVitals = onPerfEntry => {
       getFCP(onPerfEntry);
       getLCP(onPerfEntry);
       getTTFB(onPerfEntry);
+      //updated now!
+      //updated Again!
     });
   }
 };
